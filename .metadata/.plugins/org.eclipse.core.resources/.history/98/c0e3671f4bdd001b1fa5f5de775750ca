@@ -1,0 +1,5 @@
+package com.abc.techstore.payload;
+
+public class ErrorResponse {
+
+}

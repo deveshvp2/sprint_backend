@@ -1,0 +1,5 @@
+package com.abc.techstore.repository;
+
+public interface ProductRepository {
+
+}

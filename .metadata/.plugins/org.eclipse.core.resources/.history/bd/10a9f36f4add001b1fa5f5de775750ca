@@ -1,0 +1,11 @@
+package com.abc.techstore.model;
+
+public class Product {
+	
+	private int productId;
+	private String productName;
+	private double productPrice;
+	private int productStock;
+	private String productDescription;
+	private LocalDate productDom;
+}

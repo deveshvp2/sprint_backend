@@ -1,0 +1,10 @@
+package com.abc.techstore.service;
+
+import com.abc.techstore.exception.ProductAlreadyExistingException;
+import com.abc.techstore.model.Product;
+
+public interface ProductService {
+	public void saveProduct(Product product) throws ProductAlreadyExistingException;
+	
+	public Product fetchProductById(int productId);
+}

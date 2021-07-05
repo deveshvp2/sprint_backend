@@ -1,0 +1,5 @@
+package com.abc.techstore.model;
+
+public class Product {
+
+}

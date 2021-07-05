@@ -1,0 +1,5 @@
+package com.abc.techstore.entity;
+
+public class ProductEntity {
+
+}
